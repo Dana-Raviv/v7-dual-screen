@@ -1,0 +1,35 @@
+/*
+** description: custom styling for "Cursor" file
+*/
+
+.not-allowed     { cursor: not-allowed !important; }
+
+.copyCursor     { cursor: copy !important; }
+
+.zoomOutCursor    { cursor: zoom-out !important; }
+
+.zoomInCursor     { cursor: zoom-in !important; }
+
+.rowResizeCursor    { cursor: row-resize !important; }
+
+.colResizeCursor     { cursor: col-resize !important; }
+
+.contextMenuCursor     { cursor: context-menu !important; }
+
+.nwseResizeCursor    { cursor: nwse-resize !important; }
+
+.pencilCursor {cursor: url('pencil.png'), default !important;}
+
+.pencilTipCursor {cursor: url('pencil2.png'), default !important;}
+
+.brushCursor {cursor: url('brush2.png'), default !important;}
+
+.scissorsCursor {cursor: url('scissors.png'), default !important;}
+
+.infoCursor {cursor: url('info.png'), default !important;}
+
+.pushpinCursor {cursor: url('pushpin.png'), default !important;}
+
+.magicwandCursor {cursor: url('magic-wand.png'), default !important;}
+
+.eyedropperCursor {cursor: url('eyedropper.png'), default !important;}
